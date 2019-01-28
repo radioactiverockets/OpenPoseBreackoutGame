@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/OpenPose/Examples/Scenes/Output2D.unity
-    guid: d14f1fe1776644745acd186bbfe3a269
+    path: Assets/OpenPose/Examples/Scenes/OpenPose.unity
+    guid: 5e64a3c051e8e4f4f84d8090c3a6d879
+  - enabled: 1
+    path: Assets/OpenPose/Examples/Scenes/MainMenu.unity
+    guid: d716e70d6cfa9034d8246a6e9bd4990c
   m_configObjects: {}
